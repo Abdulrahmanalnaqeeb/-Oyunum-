@@ -34,16 +34,23 @@ Video:
 ![Baslangıc](https://i.hizliresim.com/qbfho6x.jpg)
 
 
-# Super Capsule
+# 1.LEVEL
 Oyunumzu ilk başladığımız zaman karşımıza 2 saniyelik bir şifre görülmektedir ve bunu hafızamıza tutmak gerekir.. 
 ![Baslangıc](https://i.hizliresim.com/cgalzfl.jpg)
 
+# KAPI
+aklımızda tuttuğumuz şifreyi ikinci levele geçmek için yazmamız gerekir..
 ![Baslangıc](https://i.hizliresim.com/sb4tzlt.jpg)
 
+# KAPIMIZ AÇILDI
 ![Baslangıc](https://i.hizliresim.com/gim5mn9.jpg)
 
+# 2.LEVEL
+ikinci levele geldik
 ![Baslangıc](https://i.hizliresim.com/3tkxd17.jpg)
 
+# DÜŞMAN
+kırmızı düşmanımız ona dokunduğumuzda direk ölüyorüz ancak tam üzerine zıpladığımızda dümanımızı yok ediyoruz
 ![Baslangıc](https://i.hizliresim.com/q8kndyl.jpg)
 
 ![Baslangıc](https://i.hizliresim.com/fk6de0u.jpg)
