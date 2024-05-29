@@ -28,8 +28,14 @@ Video:
 # _______________________________________________
 
 
+# -OYUNUN ARAYÜZ TASARIMI-
+# ANA-MENÜ
+1. BAŞLA BUTTON  2. AYARLAR BUTTON
 ![Baslangıc](https://i.hizliresim.com/qbfho6x.jpg)
 
+
+# Super Capsule
+Oyunumzu ilk başladığımız zaman karşımıza 2 saniyelik bir şifre görülmektedir ve bunu hafızamıza tutmak gerekir.. 
 ![Baslangıc](https://i.hizliresim.com/cgalzfl.jpg)
 
 ![Baslangıc](https://i.hizliresim.com/sb4tzlt.jpg)
