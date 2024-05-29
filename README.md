@@ -1,3 +1,33 @@
+# OYUNUMUZU GÖRELİM ->
+Video:
+# _______________________________________________
+
+# Super Capsule
+*Super Kapsül* adlı oyununuzda dikkat, hafıza ve hesap yeteneklerini ölçmek için belirttiğiniz yöntemleri nasıl kullanabileceğinizi ve haftalık planınızı güncelleyerek optimize edeceğim.
+
+# 1) Dikkat Ölçümü
+
+*Düşmanlardan Kaçınma:* Düşmanlar yandan oyuncuya dokunduğunda oyuncu ölecek, ancak oyuncu düşmanın üstüne bastığında düşman ölecek. Bu, oyuncunun dikkatini ve reflekslerini test eder. 
+
+*Multitasking Zorlukları:* Oyuncuların bir yandan düşmanlardan kaçarken bir yandan coin toplaması gerekecek. 
+
+
+# 2) Hafıza Ölçümü
+
+*Şifre Hatırlama:* Oyuncuların oyun içinde belirli bir süre ekranda görünen bir şifreyi hatırlamaları gerekecek. Bu şifre, bölümü tamamlamak için son kapıyı açmak için kullanılacak. 
+
+*Geri Sayım:* Oyuna başlarken bir süre geri sayım olacak. Bu süre dolduğunda, oyuncu "Game Over" olacak ve seviyeyi yeniden başlatması gerekecek.
+
+
+# 3) Hesap Yeteneği Ölçümü
+
+*Coin Toplama:* Oyuncular, ekranda beliren 1'li ve 5'li coinleri toplayacak. Bu coinlerin toplanması oyuncunun hesaplama yeteneğini test eder. 
+
+*Kaynak Yönetimi:* Coinleri toplayarak belirli sayıda coin biriktirip, ileride kullanılacak kaynaklar veya bonuslar alabilecekler.
+
+# _______________________________________________
+
+
 ![Baslangıc](https://i.hizliresim.com/qbfho6x.jpg)
 
 ![Baslangıc](https://i.hizliresim.com/cgalzfl.jpg)
