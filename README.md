@@ -23,7 +23,6 @@ Video:https://www.youtube.com/watch?v=e1kynW8fpsE
 
 *Coin Toplama:* Oyuncular, ekranda beliren 1'li ve 5'li coinleri toplayacak. Bu coinlerin toplanması oyuncunun hesaplama yeteneğini test eder. 
 
-*Kaynak Yönetimi:* Coinleri toplayarak belirli sayıda coin biriktirip, ileride kullanılacak kaynaklar veya bonuslar alabilecekler.
 
 # _______________________________________________
 
