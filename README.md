@@ -1,5 +1,5 @@
 # OYUNUMUZU GÖRELİM ->
-Video:
+Video:https://www.youtube.com/watch?v=e1kynW8fpsE
 # _______________________________________________
 
 # Super Capsule
