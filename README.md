@@ -50,11 +50,14 @@ ikinci levele geldik
 ![Baslangıc](https://i.hizliresim.com/3tkxd17.jpg)
 
 # DÜŞMAN
-kırmızı düşmanımız ona dokunduğumuzda direk ölüyorüz ancak tam üzerine zıpladığımızda dümanımızı yok ediyoruz
+kırmızı düşmanımız ona dokunduğumuzda direk ölüyorüz ancak tam üzerine zıpladığımızda düşmanımızı yok ediyoruz
 ![Baslangıc](https://i.hizliresim.com/q8kndyl.jpg)
 
 ![Baslangıc](https://i.hizliresim.com/fk6de0u.jpg)
 
+# 3.LEVEL
 ![Baslangıc](https://i.hizliresim.com/8yg6jht.jpg)
 
+# SON PANEL
+Son panelimiz olan oyunu kazandığımızda çıkmaktadır ve tekrar oyn buttonumuzu bulunmaktadır..
 ![Baslangıc](https://i.hizliresim.com/m82r7ny.jpg)
