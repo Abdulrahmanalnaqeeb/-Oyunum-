@@ -1,76 +1,65 @@
 # OYUNUMUZU GÖRELİM ->
 Video:https://www.youtube.com/watch?v=e1kynW8fpsE
+# _______________________________________________
 
----
+# Super Capsule
+*Super Kapsül* adlı oyununuzda dikkat, hafıza ve hesap yeteneklerini ölçmek için belirttiğiniz yöntemleri nasıl kullanabileceğinizi ve haftalık planınızı güncelleyerek optimize edeceğim.
 
-# Super Capsule - Oyun Tanıtımı
+# 1) Dikkat Ölçümü
 
-**Super Kapsül**, dikkat, hafıza ve hesap yeteneklerinizi test eden eğlenceli ve zorlu bir oyun. İşte oyunun özellikleri ve haftalık oyun planınızı optimize edecek detaylar:
+*Düşmanlardan Kaçınma:* Düşmanlar yandan oyuncuya dokunduğunda oyuncu ölecek, ancak oyuncu düşmanın üstüne bastığında düşman ölecek. Bu, oyuncunun dikkatini ve reflekslerini test eder. 
 
----
+*Multitasking Zorlukları:* Oyuncuların bir yandan düşmanlardan kaçarken bir yandan coin toplaması gerekecek. 
 
-## 1. Dikkat Ölçümü
 
-### Düşmanlardan Kaçınma
-- **Mekanik:** Düşmanlar yandan oyuncuya dokunduğunda oyuncu ölür. Ancak, oyuncu düşmanın üstüne bastığında düşman ölür.
-- **Amaç:** Bu mekanik, oyuncunun dikkatini ve reflekslerini test eder.
+# 2) Hafıza Ölçümü
 
-### Multitasking Zorlukları
-- **Mekanik:** Oyuncuların bir yandan düşmanlardan kaçarken bir yandan da coin toplaması gerekecek.
-- **Amaç:** Aynı anda birden fazla görevi yapma becerisini ölçer.
+*Şifre Hatırlama:* Oyuncuların oyun içinde belirli bir süre ekranda görünen bir şifreyi hatırlamaları gerekecek. Bu şifre, bölümü tamamlamak için son kapıyı açmak için kullanılacak. 
 
-## 2. Hafıza Ölçümü
+*Geri Sayım:* Oyuna başlarken bir süre geri sayım olacak. Bu süre dolduğunda, oyuncu "Game Over" olacak ve seviyeyi yeniden başlatması gerekecek.
 
-### Şifre Hatırlama
-- **Mekanik:** Oyuncular, oyun içinde belirli bir süre ekranda görünen bir şifreyi hatırlamalı ve bu şifreyi bölümü tamamlamak için kullanacak.
-- **Amaç:** Bu mekanik, oyuncunun kısa süreli hafızasını test eder.
 
-### Geri Sayım
-- **Mekanik:** Oyuna başlarken bir süre geri sayım olacak. Bu süre dolduğunda, oyuncu "Game Over" olacak ve seviyeyi yeniden başlatması gerekecek.
-- **Amaç:** Bu mekanik, oyuncunun zaman yönetimi becerisini ve stres altındaki performansını ölçer.
+# 3) Hesap Yeteneği Ölçümü
 
-## 3. Hesap Yeteneği Ölçümü
+*Coin Toplama:* Oyuncular, ekranda beliren 1'li ve 5'li coinleri toplayacak. Bu coinlerin toplanması oyuncunun hesaplama yeteneğini test eder. 
 
-### Coin Toplama
-- **Mekanik:** Oyuncular, ekranda beliren 1'li ve 5'li coinleri toplayacak.
-- **Amaç:** Bu mekanik, oyuncunun basit hesaplama yeteneğini test eder.
 
----
+# _______________________________________________
 
-# OYUNUN ARAYÜZ TASARIMI
 
-## Ana Menü
-- **Başla Butonu**
-- **Ayarlar Butonu**
-![Ana Menü](https://i.hizliresim.com/qbfho6x.jpg)
+# -OYUNUN ARAYÜZ TASARIMI-
+# ANA-MENÜ
+1. BAŞLA BUTTON  2. AYARLAR BUTTON
+![Baslangıc](https://i.hizliresim.com/qbfho6x.jpg)
 
-## 1. Seviye
-- Oyunun başında 2 saniyelik bir şifre görünecek. Bu şifreyi hafızada tutmak gerekir.
-![1. Seviye Başlangıç](https://i.hizliresim.com/cgalzfl.jpg)
 
-### Kapı
-- Aklımızda tuttuğumuz şifreyi ikinci seviyeye geçmek için yazmamız gerekecek.
-![Kapı](https://i.hizliresim.com/sb4tzlt.jpg)
+# 1.LEVEL
+Oyunumzu ilk başladığımız zaman karşımıza 2 saniyelik bir şifre görülmektedir ve bunu hafızamıza tutmak gerekir.. 
+![Baslangıc](https://i.hizliresim.com/cgalzfl.jpg)
 
-### Kapımız Açıldı
-![Kapımız Açıldı](https://i.hizliresim.com/gim5mn9.jpg)
+# KAPI
+aklımızda tuttuğumuz şifreyi ikinci levele geçmek için yazmamız gerekir..
+![Baslangıc](https://i.hizliresim.com/sb4tzlt.jpg)
 
-## 2. Seviye
-- İkinci seviyeye geldik.
-![2. Seviye](https://i.hizliresim.com/3tkxd17.jpg)
+# KAPIMIZ AÇILDI
+![Baslangıc](https://i.hizliresim.com/gim5mn9.jpg)
 
-### Düşman
-- Kırmızı düşmana dokunduğumuzda ölürüz ancak tam üzerine zıpladığımızda düşmanı yok ederiz.
-![Düşman](https://i.hizliresim.com/q8kndyl.jpg)
-![Düşman Yok Etme](https://i.hizliresim.com/fk6de0u.jpg)
+# 2.LEVEL
+ikinci levele geldik
+![Baslangıc](https://i.hizliresim.com/3tkxd17.jpg)
 
-## 3. Seviye
-![3. Seviye](https://i.hizliresim.com/8yg6jht.jpg)
+# DÜŞMAN
+kırmızı düşmanımız ona dokunduğumuzda direk ölüyorüz ancak tam üzerine zıpladığımızda düşmanımızı yok ediyoruz
+![Baslangıc](https://i.hizliresim.com/q8kndyl.jpg)
 
-## Son Panel
-- Oyunu kazandığımızda çıkan panel ve tekrar oyna butonu.
-![Son Panel](https://i.hizliresim.com/m82r7ny.jpg)
+![Baslangıc](https://i.hizliresim.com/fk6de0u.jpg)
 
----
+# 3.LEVEL
+![Baslangıc](https://i.hizliresim.com/8yg6jht.jpg)
 
-Bu plan, oyun geliştirme sürecinizi optimize ederek daha verimli ve etkili bir şekilde çalışmanızı sağlar. Başarılar dilerim!
+# SON PANEL
+Son panelimiz olan oyunu kazandığımızda çıkmaktadır ve tekrar oyn buttonumuzu bulunmaktadır..
+![Baslangıc](https://i.hizliresim.com/m82r7ny.jpg)
+
+
+BU GİTHUB README DOSYASI BANA ÇOK GÜZEL BİR ŞEKİLDE DÜZENLE 
